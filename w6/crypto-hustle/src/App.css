@@ -30,3 +30,19 @@ li.main-list {
     display: inline-block;
     margin-left: 75px;
 }
+
+nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.home-link {
+    border: 1px solid white;
+    background: #1d1f1d;
+    width: 75px;
+}
+
+.home-link:hover {
+    cursor: pointer;
+}
